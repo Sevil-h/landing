@@ -1,0 +1,18 @@
+.footer {
+  background: black;
+  opacity: 0.8;
+  color: white;
+  padding: 80px;
+  text-align: center;
+}
+.social-media {
+  font-size: 30px;
+  color: green;
+}
+.footer p {
+  color: gray;
+  font-size: 18px;
+}
+.fas {
+  color: red;
+}

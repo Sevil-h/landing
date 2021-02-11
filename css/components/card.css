@@ -1,0 +1,21 @@
+.cards {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 35px 96px;
+}
+.cards h2{
+  font-size: 24px;
+  font-family: 'Poppins';
+}
+.card {
+  width: 180px;
+  box-shadow: 0 0 3px rgb(0 0 0 / 30%);
+  padding: 0 35px;
+}
+
+.card img {
+  width: 150px;
+  margin: 19px auto;
+}
